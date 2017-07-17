@@ -1,0 +1,8 @@
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructureMapIoc.exe.config
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructureMapIoc.exe
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructureMapIoc.pdb
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructureMap.dll
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructureMap.xml
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\obj\Debug\StructureMapIoc.csprojResolveAssemblyReference.cache
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\obj\Debug\StructureMapIoc.exe
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\obj\Debug\StructureMapIoc.pdb

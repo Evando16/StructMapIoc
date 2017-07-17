@@ -1,0 +1,2 @@
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructMapIoc.exe.config
+H:\Projects\Study\IoC\StructMapIoc\StructMapIoc\bin\Debug\StructuremapIoc.exe.config
